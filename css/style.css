@@ -98,6 +98,15 @@ input[type="submit"] {
     color: red;
     text-align: end;
 }
+.last-paragraph{
+    font-size: 10pt;
+    color: gray;
+    text-align: center;
+    margin: 5px;
+}
+.text-colored {
+    color: var(--red-color);
+}
 /* mobile */
 @media screen and (max-width:600px){
     .container {
